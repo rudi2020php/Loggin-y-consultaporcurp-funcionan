@@ -1,9 +1,9 @@
     <?php
 
-DEFINE('NOMBRE_SERVIDOR','');
-DEFINE('BASE_DATOS','');
-DEFINE('USUARIO','');
-DEFINE('PASS','');
+DEFINE('NOMBRE_SERVIDOR','189.207.247.244');
+DEFINE('BASE_DATOS','allie_predial');
+DEFINE('USUARIO','postgres');
+DEFINE('PASS','4LLI32526');
 
 
 /* 
