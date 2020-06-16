@@ -90,6 +90,12 @@ if (isset($_POST['save_'])) {
             <br>
 
                <!--HACER EL MENU CON ENLACES-->
+                <div class="row"> 
+                <div class="col-12">
+                    <a href="ConsultaProspectos.php" class="btn btn-outline-info d-block">Agenda</a>
+                </div>
+            </div>
+            <br>
             <div class="row"> 
                 <div class="col-12">
                     <a href="#" class="btn btn-outline-info d-block disabled"><span class="badge badge-pill badge-info">Empleado</span></a>

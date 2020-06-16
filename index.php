@@ -108,15 +108,15 @@
             <br>
             <div class="row"> 
                 <div class="col-12">
-                    <a href="#" class="btn btn-outline-info d-block active">Kit higienico </a>
+                    <a href="#" class="btn btn-outline-info d-block active">Requisiciones de compras </a>
                 </div>
-            </div>
+            </div><!--
             <br>
             <div class="row"> 
                 <div class="col-12">
                     <a href="#" class="btn btn-outline-info d-block active">Papeleria </a>
                 </div>
-            </div>
+            </div>-->
         </div> <!--COLUMNA DOS FILA DOS-->
         <div class="col-8">
             <div class="row justify-content-center text-primary bg-ligth">   
